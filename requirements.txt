@@ -1,0 +1,9 @@
+google.colab 
+langchain_openai 
+langchain_community
+langchain_community
+langchain_core.prompts
+langchain.agents 
+langchain.tools
+matplotlib.pyplot
+numpy
